@@ -46,4 +46,11 @@
 //     return duplicates;
 // }
 
+
+function findDuplicates(arr) {
+  return [...new Set(arr.filter((item, index) => arr.indexOf(item) !== index))];
+}
+
+console.log(findDuplicates([1, 2, 3, 2, 4, 5, 1])); // [1, 2]
+
 // console.log(findDuplicates([1, 1, 22,22, 3, 4]));
