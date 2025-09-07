@@ -18,7 +18,16 @@
 
 /// matter -3 
 
-function maxNumber(number) {
-    return Math.max(...number)
-}
-console.log(maxNumber([1,2,3,4,5,6]));
+// function maxNumber(number) {
+//     return Math.max(...number)
+// }
+// console.log(maxNumber([1,2,3,4,5,6]));
+
+
+///////// matter -4
+
+// function sumEven(array) {
+//     return array.filter((a) => a % 2 === 0).reduce((b, c) => b + c, 0)
+// }
+
+// console.log(sumEven([1, 2, 3, 4, 5, 6, 6]));
