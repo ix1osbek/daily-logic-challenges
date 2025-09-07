@@ -10,8 +10,8 @@
 
 
 /// matter -2
-function reverseString(a) {
- return a.split('').reverse().join('')
-}
+// function reverseString(a) {
+//  return a.split('').reverse().join('')
+// }
 
-console.log(reverseString("hello"));
+// console.log(reverseString("hello"));
