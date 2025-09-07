@@ -15,3 +15,10 @@
 // }
 
 // console.log(reverseString("hello"));
+
+/// matter -3 
+
+function maxNumber(number) {
+    return Math.max(...number)
+}
+console.log(maxNumber([1,2,3,4,5,6]));
