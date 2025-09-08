@@ -1,3 +1,114 @@
 2.reverseString("salom") // "molas"
 3.maxNumber([3, 7, 2, 9, 5]) // 9
 4.sumEven([1, 2, 3, 4, 5, 6]) // 12
+Berilgan so‘zni teskari yoz.
+
+Berilgan so‘z palindrom ekanligini tekshir.
+
+Matndagi eng uzun so‘zni top.
+
+Matndagi so‘zlar sonini hisobla.
+
+Berilgan so‘zdagi unlilar sonini hisobla.
+
+Har bir so‘zning birinchi harfini katta qil.
+
+Berilgan matnda eng ko‘p uchraydigan harfni top.
+
+Stringdagi barcha bo‘sh joylarni olib tashla.
+
+Matn ichidan raqamlarni ajratib ol.
+
+Ikki so‘z anagram ekanligini tekshir.
+
+Massiv masalalari
+
+Massivdagi eng katta sonni top.
+
+Massivdagi eng kichik sonni top.
+
+Massivdagi barcha elementlar yig‘indisini hisobla.
+
+Massivdagi faqat juft sonlarni qaytar.
+
+Massivdagi faqat toq sonlarni qaytar.
+
+Takrorlanuvchi elementlarni top.
+
+Takrorlarni olib tashlab yangi massiv qaytar.
+
+Massivni teskari tartibda chiqar.
+
+Massivdagi barcha elementlarni kvadratga oshir.
+
+Massiv elementlarining o‘rtacha qiymatini top.
+
+Funksiya va mantiq masalalari
+
+FizzBuzz (1 dan N gacha sonlar chiqadi, 3 ga bo‘linadiganlar — “Fizz”, 5 ga bo‘linadiganlar — “Buzz”).
+
+Berilgan son tub ekanligini tekshir.
+
+Fibonacci ketma-ketligining N ta elementini chiqar.
+
+Berilgan son faktorialini hisobla.
+
+Son ichidagi raqamlar yig‘indisini hisobla.
+
+Haroratni Celsius ↔ Fahrenheit o‘zgartirish.
+
+Yil kabisa yil ekanligini tekshir.
+
+Berilgan sonning raqamlari teskari tartibda.
+
+Ikki massivni birlashtirish va takrorlarni olib tashlash.
+
+Berilgan massivda ma’lum qiymat bor-yo‘qligini tekshir.
+
+Objekt va Map masalalari
+
+Object ichidagi barcha qiymatlarning yig‘indisini hisobla.
+
+Matn ichidagi har bir harf chastotasini hisobla (frequency counter).
+
+Massivdagi elementlar nechta marta uchrashini qaytar.
+
+Ob’ekt kalitlari va qiymatlarini almashtir.
+
+Massiv ichida eng ko‘p takrorlangan elementni top.
+
+Sort va filter masalalari
+
+Massivni o‘sish tartibida sarala.
+
+Massivni kamayish tartibida sarala.
+
+Uzunligi bo‘yicha so‘zlarni sarala.
+
+Faqat musbat sonlarni filter qil.
+
+Faqat 0 dan katta bo‘lgan sonlar yig‘indisini qaytar.
+
+Array va string kombinatsiyalari
+
+Har bir so‘z uzunligini massivda qaytar.
+
+Matndan faqat so‘zlarni olib massivga joyla.
+
+Massiv ichidagi stringlarni bitta stringga birlashtir.
+
+Har bir so‘zdagi unlilar sonini qaytaruvchi massiv tuz.
+
+Matndagi har bir so‘z nechta marta uchrashini hisobla.
+
+Qo‘shimcha mantiqiy masalalar
+
+Massiv ichidagi barcha qiymatlar true ekanligini tekshir.
+
+Massiv ichida faqat unique qiymatlar borligini tekshir.
+
+Berilgan massiv ichida k-elementni top.
+
+Random son generatsiya qiluvchi funksiya tuz.
+
+1 dan 100 gacha bo‘lgan tasodifiy juft son chiqaruvchi funksiya tuz.
